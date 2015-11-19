@@ -1,0 +1,20 @@
+// CommentListContainer.js
+
+class CommentListContainer extends React.Component {
+  constructor() {
+    super();
+    this.state = { comments: [] }
+  }
+  componentDidMount() {
+    $.ajax({
+      url: "/my-comments.json",
+      dataType: 'json',
+      success: function(comments) {
+        this.setState({comments: comments});
+      }.bind(this)
+    });
+  }
+  render() {
+    return <CommentList comments={this.state.comments} />;
+  }
+}
