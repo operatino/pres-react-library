@@ -12,4 +12,4 @@ Open a browser and hit `http://localhost:3000`, and we are ready to roll
 
 ## Credits
 
-Built with Spectacle.
+Built with [Spectacle](https://github.com/FormidableLabs/spectacle).
