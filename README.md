@@ -3,6 +3,7 @@
 Presentation about patterns and tools for building React component library.
 
 https://speakerdeck.com/operatino/building-react-component-library
+https://youtu.be/qtu11dPWBhI?list=PL20zJcC2wnX7RY1CDrKLhSvYxEe6jtMbB
 
 ## Getting Started
 
