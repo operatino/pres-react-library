@@ -2,6 +2,8 @@
 
 Presentation about patterns and tools for building React component library.
 
+https://speakerdeck.com/operatino/building-react-component-library
+
 ## Getting Started
 
 Your first order of business is to open terminal and run `npm install`
